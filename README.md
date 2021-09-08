@@ -28,11 +28,12 @@ my village is a place that I perfer most for holiday the people are very friendl
 below table illustrates some drinks and food item which i recommend  to try.
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| food / drinks   | locations around | prices of the items |
+| --------------- | ---------------  | ---------------     |
+| chicken nuggets | ohio, USA        | 10 for each piece   |
+| veg briyani spl | dallas, USA      | 15 for each packet  | 
+| chicken briyani | new york city,USA| 25 for each packet  | 
+
 ---
 
 
