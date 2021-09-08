@@ -37,10 +37,9 @@ below table illustrates some drinks and food item which i recommend  to try.
 | red bull        | los angles       | 13 for each tin     | 
 ---
 # pithy quotes 
- > “I have only made this letter longer because I have not had the time to make it shorter."
-― *Blaise Pascal, The Provincial Letters*
- > “Mathematicians deal with large numbers sometimes, but never in their income.”
-― *Isaac Asimov, Prelude to Foundation*
+ > “I have only made this letter longer because I have not had the time to make it shorter."― *Blaise Pascal, The Provincial Letters*
+
+ > “Mathematicians deal with large numbers sometimes, but never in their income.” ― *Isaac Asimov, Prelude to Foundation*
  
 
  ---
