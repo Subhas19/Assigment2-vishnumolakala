@@ -36,8 +36,9 @@ below table illustrates some drinks and food item which i recommend  to try.
 |  sprit          | chicago,USA      | 6  for each bottle  |
 | red bull        | los angles       | 13 for each tin     | 
 ---
-
-
+# pithy quotes 
+ I have only made this letter longer because I have not had the time to make it shorter<br>
+ What's really important here," I whispered loudly to myself,"is not the big things other people have thought up, but the small things you, yourself have 
 
 
 
