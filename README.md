@@ -27,13 +27,13 @@ my village is a place that I perfer most for holiday the people are very friendl
  ## Mostly popular food/drinks
   below table illustrates some drinks and food item which i recommend  to try 
 
-  Food/Drinks    | Location  | Price($) |
+| Food/Drinks    | Location  | Price($) |
 |----------- -   | --------- | ----- |
-| chicken Biryani| Hyderabad | 10    |
-| chicken nuggets | Bangalore   | 15    |
-| Bis Bele Bath|  chennai        | 7    |
-|Dhokla        | Gujarath         | 5    |
-| Mojito        | Cuba             |  14 |
+| chicken Biryani| Hyderabad   | 10  |
+| chicke nuggets | Bangalore   | 15  |
+| Bis Bele Bath  |  chennai    | 7   |
+|Dhokla          | Gujarath    | 5   |
+| Mojito         | Cuba        |  14 |
 
 ---
 
