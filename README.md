@@ -33,7 +33,8 @@ below table illustrates some drinks and food item which i recommend  to try.
 | chicken nuggets | ohio, USA        | 10 for each piece   |
 | veg briyani spl | dallas, USA      | 15 for each packet  | 
 | chicken briyani | new york city,USA| 25 for each packet  | 
-
+|  sprit          | chicago,USA      | 6  for each bottle  |
+| red bull        | los angles       | 13 for each tin     | 
 ---
 
 
